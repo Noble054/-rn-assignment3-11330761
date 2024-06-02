@@ -9,3 +9,19 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `i`  to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 5. Run on For android device
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
+
+## Project Files
+
+### `task.js`
+
+`task.js` contains the code responsible for managing tasks in the application. It includes functions for adding, editing, deleting, and completing tasks.
+
+### `globalscript.js`
+
+`globalscript.js` contains global JavaScript code used throughout the application. This file may include utility functions, constants, or other shared functionalities.
+
+### `app.js`
+
+`app.js` is the main JavaScript file for the application. It initializes the application, sets up event listeners, and coordinates the interaction between different components/modules.
+
+![Young Woman Working at Desk](../assets/young-woman-working-at-desk.png)
