@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello-devs",
-    "slug": "hello-devs",
+    "name": "dcit_202_-_assignment_3_(copy)",
+    "slug": "dcit_202_-_assignment_3_(copy)",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,13 +11,19 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
