@@ -84,6 +84,7 @@ const Task = () => {
             source={require("../assets/young-woman-working-at-desk.png")}
           />
         </View>
+
       </View>
       <View style={[styles.ongoingTasksCards, styles.ongoingLayout]}>
         <View style={[styles.ongoingTasksCardsChild, styles.ongoingLayout]} />
@@ -120,7 +121,7 @@ const Task = () => {
         <View style={[styles.ongoingTasksCardsChild, styles.ongoingLayout]} />
         <View style={[styles.pushUpsParent, styles.mobileLayout]}>
           <Text style={[styles.mobileAppDevelopment, styles.mobileLayout]}>
-            shotng
+            Cooking
           </Text>
           <Text style={[styles.tasks, styles.tasksTypo]}>Exercise</Text>
         </View>
